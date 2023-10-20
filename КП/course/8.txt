@@ -1,0 +1,36 @@
+*Какой тип Layout изображен на рисунке?
+GridLayout
+AnchorLayout
+BoxLayout
+FloatLayout
+-3
+*Какой тип Layout изображен на рисунке?
+GridLayout
+AnchorLayout
+BoxLayout
+FloatLayout
+-1
+*Какой тип Layout изображен на рисунке?
+GridLayout
+AnchorLayout
+BoxLayout
+FloatLayout
+-2
+*Какой тип Layout изображен на рисунке?
+GridLayout
+AnchorLayout
+BoxLayout
+FloatLayout
+-4
+*Какой элемент изображен на рисунке?
+GridLayout
+AnchorLayout
+Label
+Button
+-3
+*Какой элемент изображен на рисунке?
+Label
+AnchorLayout
+Button
+FloatLayout
+-4
